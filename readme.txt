@@ -14,8 +14,3 @@ Bus no. sould be in serial, like 1,2,3,.. and so on. Type of Bus is very importa
 Now run main.m and give your preferences there (such as base power, tolerance, accelaration factor)
 
 After that you will get two output created/ rewrited in this directory named 'Final_Bus_data.csv' and 'Final_line_data.csv'
-
-
-
-**** There are some sample folders such as 'input files 1', 'input files 2'. Each folder contains different sets of input files each named bus_data.csv and line_data.csv 
-**  You can copy them and paste in current directory (where main.m is located) by replacing the old ones.
